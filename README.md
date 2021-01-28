@@ -1,4 +1,4 @@
-# jones-db
+# Jones-DB
 
 ## What is this?
 
