@@ -1,10 +1,10 @@
-# Jones-DB
+# NES Emulator Database
 
 ## What is this?
 
 Archive of game covers for the Nintendo Entertainment System (NES).
 
-Game covers are used in the [Jones NES Emulator](https://github.com/JonForShort/jones) project.
+Game covers are used in the [Jones NES Emulator](https://github.com/JonForShort/nes-emulator) project.
 
 ## How to contribute?
 
